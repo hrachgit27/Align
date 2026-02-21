@@ -1,9 +1,9 @@
 class AuthController {
-    static void Login(String username, String password) {
+    static void login(String username, String password) {
         
     }
 
-    static void Register(String email, String password) {
+    static void register(String email, String password) {
         
     }
 }
